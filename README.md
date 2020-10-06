@@ -1,6 +1,6 @@
 # my-repository-react
 
-💻 **Desafio de do _Meu portfolio em React_ realizado no curso de Front-end do Start LATAM 2020.**
+💻 **Desafio do _Meu portfolio em React_ realizado no curso de Front-end do Start LATAM 2020.**
 
 🚀 _Tecnologias_
 
